@@ -517,7 +517,7 @@ Insecurity along major trade routes and restricted road access have led many tra
                             "Health, education, and security posts were deemed 'present' if locations existed within a 20km range of the intervention site.", 
 #                            tags$a(href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd", "the WHO,"),
                             tags$br(),tags$br(),tags$h4("Code"),
-                            "Code and input data used to generate this Shiny mapping tool are available on ",tags$a(href="", "Github."),
+                            "Code and input data used to generate this Shiny mapping tool are available on ",tags$a(href="https://github.com/jstandifer/rs-srr-webmap", "Github."),
                             tags$br(),tags$br(),tags$h4("Sources & References"),
                             tags$a(href="https://data.humdata.org/", "Humanitarian Data Exchange: "), "Provided necessary administrative boundaries, WorldPop population estimates, as well as infrastructure data including, market, education, and health facility datasets.",
                             tags$br(),tags$a(href="https://grid3.gov.ng/", "GRID3: "), "Provided market datasets for Nigerian territories.",
