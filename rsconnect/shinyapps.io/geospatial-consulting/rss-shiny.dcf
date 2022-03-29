@@ -1,0 +1,12 @@
+name: rss-shiny
+title: rss-shiny
+username:
+account: geospatial-consulting
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5797443
+bundleId: 5666244
+url: https://geospatial-consulting.shinyapps.io/rss-shiny/
+when: 1646917213.78462
+asMultiple: FALSE
+asStatic: FALSE
